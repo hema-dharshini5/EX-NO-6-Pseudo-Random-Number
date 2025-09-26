@@ -40,7 +40,8 @@ return 0;
 ```
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/47869279-39e3-42b1-8dc7-2d7fd02f20ea)
+![Uploading Screenshot 2025-09-26 105646.png…]()
+
 
 # RESULT:
 The Program Excuted Successfully
