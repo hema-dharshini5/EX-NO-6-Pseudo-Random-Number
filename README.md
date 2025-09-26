@@ -40,7 +40,8 @@ return 0;
 ```
 
 # OUTPUT:
-![Uploading Screenshot 2025-09-26 105646.png…]()
+<img width="1561" height="694" alt="Screenshot 2025-09-26 105646" src="https://github.com/user-attachments/assets/c5261af7-944a-4fe2-bd2c-af1482e26186" />
+
 
 
 # RESULT:
